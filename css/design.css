@@ -1,0 +1,64 @@
+/* Navbar */
+.site-navbar {
+	background: #201e2e;
+	border-bottom: solid 2px #7a66ff;
+}
+.site-navbar .current {
+	background: #7a66ff;
+	color: #201e2e;
+}
+.site-navbar li a.current:hover {
+	background: #7a66ff;
+}
+.site-navbar li a:hover {
+	background: #7a66ff;
+	color: #3d395f;
+}
+.navbar-toggle {
+	border: 2px solid #7a66ff;
+	border-radius: 7px;
+}
+
+/* shades of purplse
+201e2e
+3a3558
+3d395f
+7a66ff
+*/
+
+/* shades of orange
+381a06
+*/
+
+/* shades of red
+2a1314
+*/
+
+.site-navbar li a:focus {
+	background: #7a66ff;
+}
+
+/* section 1 */
+#section-1 p {
+	font-size: 1.3em;
+}
+
+/* section 3 */
+#section-3 {
+	background: #381a06;
+}
+
+/* section 4 */
+#section-4 {
+}
+
+/* section 5 */
+#section-5 {
+	background: #2a1314;
+}
+
+body {
+	color: #201e2e;
+}
+
+
