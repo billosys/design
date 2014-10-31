@@ -56,7 +56,24 @@
 	border-bottom-color: #4a2f6f;
 }
 #section-1 p {
-	font-size: 1.3em;
+	font-size: 1.7em;
+    color: #aaa;
+    line-height: 1.25em;
+    font-weight: caption;
+    padding-bottom: 0.6em;
+    padding-right: 1em;
+}
+#section-1 .hero-logo {
+    float: left;
+    padding-right: 1.5em;
+    padding-bottom: 0.2em;
+    line-height: 1em;
+    font-size: 12px;
+}
+
+#section-1 blockquote {
+	border: none;
+	font-size: 1.9em;
     color: #ccc;
 }
 
